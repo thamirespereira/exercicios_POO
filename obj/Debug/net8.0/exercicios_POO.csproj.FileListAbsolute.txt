@@ -1,0 +1,14 @@
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/bin/Debug/net8.0/exercicios_POO
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/bin/Debug/net8.0/exercicios_POO.deps.json
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/bin/Debug/net8.0/exercicios_POO.runtimeconfig.json
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/bin/Debug/net8.0/exercicios_POO.dll
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/bin/Debug/net8.0/exercicios_POO.pdb
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.AssemblyInfoInputs.cache
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.AssemblyInfo.cs
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.csproj.CoreCompileInputs.cache
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.dll
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/refint/exercicios_POO.dll
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.pdb
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/exercicios_POO.genruntimeconfig.cache
+/home/thamires/dotnet/exercicios_POO/exercicios_POO/obj/Debug/net8.0/ref/exercicios_POO.dll
